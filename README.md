@@ -1,3 +1,3 @@
-# alexglandon-alexglandon.github.io
+# alexglandon.github.io
 
 Clean single page website demo.
